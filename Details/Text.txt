@@ -1,1 +1,0 @@
-For the picture you just need to append an image component then you should change its color to black.
